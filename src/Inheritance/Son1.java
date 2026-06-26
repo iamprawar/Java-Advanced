@@ -1,5 +1,5 @@
 package Inheritance;
-//sub/child class
+//sub class1
 public class Son1 extends Father
 {
     public void mobile()

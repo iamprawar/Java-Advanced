@@ -6,6 +6,6 @@ public class Sample2
     {
 //        Sample1 s1=new Sample1();
 //        s1.m1();
-//        System.out.println(s1.num1);
+// a       System.out.println(s1.num1);
     }
 }

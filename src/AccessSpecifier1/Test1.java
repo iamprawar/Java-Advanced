@@ -12,15 +12,15 @@ public class Test1
 
     public void m1()       //default access specifier
     {
-        System.out.println(num2*num2);
+        System.out.println(num2*num2);   //400
     }
 
 
     public static void main(String[] args)
     {
         Test1 t1=new Test1();
-        t1.m1();
-        System.out.println(t1.num2);
+        t1.m1();                   //400
+        System.out.println(t1.num2); //20
     }
 
 

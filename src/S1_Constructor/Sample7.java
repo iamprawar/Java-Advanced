@@ -52,8 +52,7 @@ public class Sample7
 
 
         Sample7 s8=new Sample7(5,6);
-        s8.add();
-
+        s8.add();        //11
 
         System.out.println("--");
 

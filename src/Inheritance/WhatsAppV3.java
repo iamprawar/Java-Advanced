@@ -1,4 +1,7 @@
 package Inheritance;
+
+import java.sql.SQLOutput;
+
 //sub class
 public class WhatsAppV3 extends WhatsAppV2 {
     public void videoCalling() {
@@ -16,4 +19,5 @@ public class WhatsAppV3 extends WhatsAppV2 {
 //	{
 //		System.out.println("text msg");
 //	}
+
 

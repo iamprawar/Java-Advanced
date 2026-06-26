@@ -1,3 +1,5 @@
+package Methods;
+
 public class Sample8
 {
     //method without/zero parameter

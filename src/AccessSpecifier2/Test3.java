@@ -2,7 +2,7 @@
 //
 //
 //import AccessSpecifier1.Test1;
-//
+////cannot call/inherit/extend from another packages
 //public class Test3
 //{
 //    public static void main(String[] args)

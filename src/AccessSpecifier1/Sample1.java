@@ -12,13 +12,13 @@ public class Sample1
 
     private void m1()       //private access specifier
     {
-        System.out.println(num1*num1);
+        System.out.println(num1*num1); //100
     }
 
     public static void main(String[] args)
     {
         Sample1 s1=new Sample1();
-        s1.m1();
+        s1.m1();                   //10
         System.out.println(s1.num1);
     }
 }
