@@ -13,7 +13,7 @@ public class Ex2_StringClassMethods
         System.out.println(s1.indexOf('b'));            //2 //1
         System.out.println(s1.lastIndexOf('b'));    //4
         System.out.println(s2.substring(3));  //ocity
-        System.out.println(s2.substring(5,7));         //startIndex, endIndex+1
+        System.out.println(s2.substring(5,7));         //startIndex, endIndex+1  //includes start index excludes end Index
         System.out.println("-----");                   //blank
 
         System.out.println(s2+" "+s3);

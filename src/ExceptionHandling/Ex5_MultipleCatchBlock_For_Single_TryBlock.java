@@ -7,7 +7,7 @@ public class Ex5_MultipleCatchBlock_For_Single_TryBlock
 
         try
         {
-            System.out.println(s1.charAt(1));    //risky code
+            System.out.println(s1.charAt(1));    //risky code   //b
         }
         catch (ArrayIndexOutOfBoundsException  e)
         {

@@ -1,7 +1,7 @@
 package PolyMorphism;
 
 public class Ex1_MethodOverloading
-{
+{     // compile-time -- same class-- diff para list --static (early binding)---increase readability
     public static void main(String[] args)
     {
         Sample2 s2=new Sample2();

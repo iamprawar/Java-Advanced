@@ -7,20 +7,20 @@ public class Sample4
     public void m1()
     {
         System.out.println(num3);
-    }
+    }  //30
 
 
     public static void m2()
     {
         Sample4 s4=new Sample4();
-        System.out.println(s4.num3);
+        System.out.println(s4.num3);   //30
     }
 
 
     public static void main(String[] args)
     {
         //1: non-static global variable call from same class
-        Sample4 s5=new Sample4();             //create object of same class
+        Sample4 s5=new Sample4();             //create object of same class //40
         System.out.println(s5.num3);          //objName.variableName
 
 

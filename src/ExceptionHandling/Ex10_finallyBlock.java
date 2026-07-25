@@ -26,3 +26,7 @@ public class Ex10_finallyBlock
 
     }
 }
+
+// Finally.Test();
+// Finally is a block in java exception handling to execute the important code
+// weather the exception is occurs or not
